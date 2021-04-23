@@ -110,13 +110,13 @@
 			<!-- Bootstrap for styling via Webjars project -->
 			<groupId>org.webjars</groupId>
 			<artifactId>bootstrap</artifactId>
-			<version>2.3.2</version>
+			<version>4.5.0</version>
 		</dependency>
 		<dependency>
 			<!-- JQuery via Webjars project -->
 			<groupId>org.webjars</groupId>
 			<artifactId>jquery</artifactId>
-			<version>2.1.0-2</version>
+			<version>3.5.0</version>
 		</dependency>
 
 		<!-- Java EE 6 APIs <dependency> <groupId>javax</groupId> <artifactId>javaee-api</artifactId> 
