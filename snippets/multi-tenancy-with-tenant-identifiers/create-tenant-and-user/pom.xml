@@ -161,7 +161,7 @@
         <configuration>
           <tasks>
             <ant antfile="${basedir}/build.xml">
-              <target name="copy.war.into.tomcat" />
+              <target name="copy.war.into.tomcat"/>
             </ant>
           </tasks>
         </configuration>
@@ -215,7 +215,7 @@
 				<dependency>
 					<groupId>org.jboss.resteasy</groupId>
 					<artifactId>resteasy-jaxrs</artifactId>
-					<version>2.3.5.Final</version>
+					<version>3.0.20.Final</version>
 				</dependency>
 				<dependency>
 					<groupId>org.jboss.resteasy</groupId>
